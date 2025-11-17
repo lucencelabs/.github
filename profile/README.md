@@ -8,9 +8,9 @@ We’re a student-led software startup based in Boulder, CO, creating AI-integra
 
 ## 💻 What We’re Building
 
-### [PulsePlan](https://github.com/flyonthewallai/PulsePlan)
+### [PulsePlan](https://github.com/flyonthewallai/PulsePlan-Public)
 PulsePlan is your AI agent-powered academic planner, built to simplify scheduling for college students. It automatically syncs Canvas deadlines, emails, notes, and calendar events to create a personalized, adaptive weekly plan.  
-→ Built with: Swift · Supabase · Redis · Python · LangChain 
+→ Built with: Python(FastAPI) · Langgraph · Supabase · Redis · React · Swift 
 
 ---
 
@@ -29,9 +29,9 @@ Together, we combine software, design, and legal precision to bring scrappy idea
 ## 🛠️ Tech Stack
 Across our projects, we work with:  
 - **Frontend:** Swift/SwiftUI · TypeScript · React  
-- **Backend:** Python
+- **Backend:** Python(FastAPI)
 - **Databases & Auth:** Supabase · PostgreSQL 
-- **AI & ML:** LangChain · OpenAI API · Custom ML Algorithms
+- **AI & ML:** Langgraph · OR-tools · Custom minilm ML inference models · OpenAI API
 - **DevOps & Infra:** Docker · GitHub Actions · Vercel · Fly.io · AWS
 
 ---
